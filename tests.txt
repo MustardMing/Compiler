@@ -1,0 +1,12 @@
+public class compiler{
+     public static void main(String args[]){
+          int a = 2;显示
+          int b = 1;
+          String x = "int a + int b";   /*x=inta+intb*/
+          i*i+i;
+          a*b+a;
+          if(a >= b){
+          System.out.println("(int)a>b"); //显示出a>b
+          }
+     }
+ }
